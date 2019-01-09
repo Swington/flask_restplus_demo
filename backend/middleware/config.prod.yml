@@ -1,0 +1,6 @@
+server:
+  ENV: 'production'
+  HOSTNAME: 'http://localhost:5000'
+  DEBUG: True
+  TESTING: True
+  PORT: 5000
